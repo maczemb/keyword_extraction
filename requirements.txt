@@ -8,6 +8,7 @@ jupyter-console==5.2.0
 jupyter-core==4.3.0
 jupyterlab==0.27.0
 jupyterlab-launcher==0.4.0
+matplotlib==3.0.3
 Markdown==3.0
 nltk==3.2.4
 notebook>=5.7.2
