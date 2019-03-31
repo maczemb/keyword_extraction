@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#embeddings file
+cc.en.300.bin
+
 # C extensions
 *.so
 
